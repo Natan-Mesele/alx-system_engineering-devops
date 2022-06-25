@@ -1,2 +1,2 @@
 #!/bin/bash
-file -C -m schol.mgc
+-C -m schol.mgc
